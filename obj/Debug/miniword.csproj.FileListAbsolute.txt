@@ -1,0 +1,10 @@
+C:\Users\fatma\source\repos\miniword\bin\Debug\miniword.exe.config
+C:\Users\fatma\source\repos\miniword\bin\Debug\miniword.exe
+C:\Users\fatma\source\repos\miniword\bin\Debug\miniword.pdb
+C:\Users\fatma\source\repos\miniword\obj\Debug\miniword.csproj.AssemblyReference.cache
+C:\Users\fatma\source\repos\miniword\obj\Debug\miniword.Form1.resources
+C:\Users\fatma\source\repos\miniword\obj\Debug\miniword.Properties.Resources.resources
+C:\Users\fatma\source\repos\miniword\obj\Debug\miniword.csproj.GenerateResource.cache
+C:\Users\fatma\source\repos\miniword\obj\Debug\miniword.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\miniword\obj\Debug\miniword.exe
+C:\Users\fatma\source\repos\miniword\obj\Debug\miniword.pdb

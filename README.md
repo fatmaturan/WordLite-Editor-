@@ -1,0 +1,2 @@
+# miniword
+ word uygulaması yapıldı
